@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14292" started-at="2019-07-19T05:09:11Z" finished-at="2019-07-19T05:09:25Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14292" started-at="2019-07-19T05:09:11Z" finished-at="2019-07-19T05:09:25Z">
+      <class name="com.amazon.qa.pages.ConditionsOfUse">
+        <test-method status="PASS" signature="ExtentReport()[pri:0, instance:com.amazon.qa.pages.ConditionsOfUse@491cc5c9]" name="ExtentReport" is-config="true" duration-ms="297" started-at="2019-07-19T05:09:10Z" finished-at="2019-07-19T05:09:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExtentReport -->
+        <test-method status="PASS" signature="Initialization()[pri:0, instance:com.amazon.qa.pages.ConditionsOfUse@491cc5c9]" name="Initialization" is-config="true" duration-ms="11863" started-at="2019-07-19T05:09:11Z" finished-at="2019-07-19T05:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initialization -->
+        <test-method status="PASS" signature="Conditions()[pri:0, instance:com.amazon.qa.pages.ConditionsOfUse@491cc5c9]" name="Conditions" duration-ms="2398" started-at="2019-07-19T05:09:22Z" finished-at="2019-07-19T05:09:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Conditions -->
+        <test-method status="PASS" signature="TearDown(org.testng.ITestResult)[pri:0, instance:com.amazon.qa.pages.ConditionsOfUse@491cc5c9]" name="TearDown" is-config="true" duration-ms="2" started-at="2019-07-19T05:09:25Z" finished-at="2019-07-19T05:09:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Conditions status=SUCCESS method=ConditionsOfUse.Conditions()[pri:0, instance:com.amazon.qa.pages.ConditionsOfUse@491cc5c9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.amazon.qa.pages.ConditionsOfUse@491cc5c9]" name="TearDown" is-config="true" duration-ms="802" started-at="2019-07-19T05:09:25Z" finished-at="2019-07-19T05:09:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.amazon.qa.pages.ConditionsOfUse -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
